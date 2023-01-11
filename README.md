@@ -41,7 +41,7 @@ While the aim is to generate a ranked list of features importance for each inter
 
 In order to select an approach to model classifier, exploratory data analysis is performed to understand the data. There are several challenges associated with the data: 
 1. Limited sample : n=574
-2  Large input features space. There are 58771 features and only 574 sample
+2.  Large input features space. There are 58771 features and only 574 sample
 3. High-dimensional output label space: 17724 output space
 4. Extreme imbalance output label with rare classes hard to train and predict 
  ![imbalance_dataset](./results/images/imbalance.png)
