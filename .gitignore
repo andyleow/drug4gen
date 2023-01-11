@@ -1,0 +1,9 @@
+# csv file
+*.csv
+*.csv.gz
+
+# pynb 
+*.ipynb_checkpoints
+
+# pycache
+*.pyc

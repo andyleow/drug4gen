@@ -1,0 +1,17 @@
+# common
+README.md
+Dockerfile
+
+# common data
+*ipynb
+*csv
+
+# git
+.git
+.gitignore
+.gitattribute
+
+# additional folder
+/model
+/notebook
+/results
