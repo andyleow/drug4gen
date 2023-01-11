@@ -1,0 +1,1 @@
+docker build -f Dockerfile -t drug4gene:0.1 .
